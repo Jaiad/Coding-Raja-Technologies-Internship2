@@ -1,1 +1,2 @@
-# Jaiad-Coding-Raja-Technologies-Internship2
+# Coding-Raja-Technologies-Internship2
+web development internship
